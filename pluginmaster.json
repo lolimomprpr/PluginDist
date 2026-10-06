@@ -1,0 +1,47 @@
+[
+    {
+        "Author":  "开饭q",
+        "Name":  "开饭q",
+        "InternalName":  "Kaifanq",
+        "AssemblyVersion":  "0.1.1.17",
+        "Description":  "开饭q。命令：/kaifanq。",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "开饭q"
+                 ],
+        "DalamudApiLevel":  15,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "开饭q执行器",
+        "DownloadLinkInstall":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.17/Kaifanq.zip",
+        "DownloadLinkUpdate":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.17/Kaifanq.zip",
+        "LastUpdate":  1791296760,
+        "AcceptsFeedback":  false
+    },
+    {
+        "Author":  "队友抽卡",
+        "Name":  "队友抽卡",
+        "InternalName":  "TeamGacha",
+        "AssemblyVersion":  "0.1.1.16",
+        "Description":  "记录纷争前线对局，查看玩家历史数据和横向百分位。数据只保存在本机。命令：/teamgacha。",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "自用",
+                     "PvP",
+                     "纷争前线",
+                     "统计"
+                 ],
+        "DalamudApiLevel":  15,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "记录对局，看看这次抽到什么队友",
+        "DownloadLinkInstall":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.17/TeamGacha.zip",
+        "DownloadLinkUpdate":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.17/TeamGacha.zip",
+        "LastUpdate":  1791296760,
+        "AcceptsFeedback":  false
+    }
+]
