@@ -3,7 +3,7 @@
         "Author":  "开饭q",
         "Name":  "开饭q",
         "InternalName":  "Kaifanq",
-        "AssemblyVersion":  "0.1.1.21",
+        "AssemblyVersion":  "0.1.1.24",
         "Description":  "开饭q。命令：/kaifanq。",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -15,16 +15,16 @@
         "CanUnloadAsync":  false,
         "LoadPriority":  0,
         "Punchline":  "开饭q执行器",
-        "DownloadLinkInstall":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.21/Kaifanq.zip",
-        "DownloadLinkUpdate":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.21/Kaifanq.zip",
-        "LastUpdate":  1791561894,
+        "DownloadLinkInstall":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.24/Kaifanq.zip",
+        "DownloadLinkUpdate":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.24/Kaifanq.zip",
+        "LastUpdate":  1791648195,
         "AcceptsFeedback":  false
     },
     {
         "Author":  "队友抽卡",
         "Name":  "队友抽卡",
         "InternalName":  "TeamGacha",
-        "AssemblyVersion":  "0.1.1.20",
+        "AssemblyVersion":  "0.1.1.23",
         "Description":  "记录纷争前线对局，查看玩家历史数据和横向百分位。数据只保存在本机。命令：/teamgacha。",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -39,9 +39,9 @@
         "CanUnloadAsync":  false,
         "LoadPriority":  0,
         "Punchline":  "记录对局，看看这次抽到什么队友",
-        "DownloadLinkInstall":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.21/TeamGacha.zip",
-        "DownloadLinkUpdate":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.21/TeamGacha.zip",
-        "LastUpdate":  1791561895,
+        "DownloadLinkInstall":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.24/TeamGacha.zip",
+        "DownloadLinkUpdate":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.24/TeamGacha.zip",
+        "LastUpdate":  1791648195,
         "AcceptsFeedback":  false
     }
 ]
