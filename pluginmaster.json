@@ -3,7 +3,7 @@
         "Author":  "开饭q",
         "Name":  "开饭q",
         "InternalName":  "Kaifanq",
-        "AssemblyVersion":  "0.1.1.41",
+        "AssemblyVersion":  "0.1.1.42",
         "Description":  "开饭q。命令：/kaifanq。",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -15,9 +15,9 @@
         "CanUnloadAsync":  false,
         "LoadPriority":  0,
         "Punchline":  "开饭q执行器",
-        "DownloadLinkInstall":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.41/Kaifanq.zip",
-        "DownloadLinkUpdate":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.41/Kaifanq.zip",
-        "LastUpdate":  1793376405,
+        "DownloadLinkInstall":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.42/Kaifanq.zip",
+        "DownloadLinkUpdate":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.42/Kaifanq.zip",
+        "LastUpdate":  1793376482,
         "AcceptsFeedback":  false
     },
     {
@@ -39,9 +39,9 @@
         "CanUnloadAsync":  false,
         "LoadPriority":  0,
         "Punchline":  "记录对局，看看这次抽到什么队友",
-        "DownloadLinkInstall":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.41/TeamGacha.zip",
-        "DownloadLinkUpdate":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.41/TeamGacha.zip",
-        "LastUpdate":  1793376406,
+        "DownloadLinkInstall":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.42/TeamGacha.zip",
+        "DownloadLinkUpdate":  "https://github.com/lolimomprpr/PluginDist/releases/download/v0.1.1.42/TeamGacha.zip",
+        "LastUpdate":  1793376483,
         "AcceptsFeedback":  false
     }
 ]
